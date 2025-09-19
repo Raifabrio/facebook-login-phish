@@ -16,7 +16,9 @@ Proyek ini dibuat **hanya untuk tujuan edukasi dan simulasi di lingkungan aman**
 
 ## 🛠️ Cara Menggunakan
 
-1. Copy-Paste saja repo pada codingan nya:
+1. Copy-Paste saja repo pada codingan nya:![Uploading Screenshot (567).png…]()
+
 
 ```bash
 https://github.com/username/facebook-login-phish.git
+
