@@ -3,6 +3,13 @@
 Ini adalah simulasi halaman login Facebook yang dibuat untuk **mengedukasi tentang bahaya phishing**.  
 Tidak ada data yang dikirim atau disimpan – semua hanya untuk tujuan pembelajaran.
 
+
+
+
+
+![Screenshot simulasi login Facebook](assets/facebook-login.png)
+
+
 ---
 
 ## ⚠️ DISCLAIMER
