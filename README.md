@@ -23,7 +23,7 @@ Proyek ini dibuat **hanya untuk tujuan edukasi dan simulasi di lingkungan aman**
 
 ## 🛠️ Cara Menggunakan
 
-1. Copy-Paste saja repo pada codingan nya:![Uploading Screenshot (567).png…]()
+1. Copy-Paste saja repo pada codingan nya:
 
 
 ```bash
